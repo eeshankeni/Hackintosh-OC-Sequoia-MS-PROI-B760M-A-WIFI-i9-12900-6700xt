@@ -1,5 +1,6 @@
 # Hackintosh-Sequoia-MSI-B760M-i9-12900-6700XT
 
+
 And EFI to help you get Opencore 1.0.3 running. Tested on Sequoia 15.2。
 
 ## Hardware Specs
@@ -18,8 +19,13 @@ And EFI to help you get Opencore 1.0.3 running. Tested on Sequoia 15.2。
 - iMessage
 - Realtek ALC897 Audio Stopped working with Alcid=13 after updating from Sonoma to Sequoia.
 
+## Whats special?
+- USB ports mapped via usbtoolbox.
+- CPU topology rebuild should improve performance.
+- Debugging disabled by default. Enabled with -v bootarg
+
 ### Tips
-- ctrsmt bootarg added to recognise the E cores as additional threads.
+- ctrsmt bootarg added to recognise the E cores as additional threads. Disable if it helps.
 - Use [beta itlwm kext](https://github.com/Lorys89/itlwm/releases/tag/v2.4.0-alpha) and [this thread](https://github.com/OpenIntelWireless/itlwm/issues/983) to find the Heliport app.
 - If you get a blank screen post kernel right before installation, Disable NootRX and enable it once in userland post account creation.
 - Follow this [helpful guide](https://chriswayg.gitbook.io/opencore-visual-beginners-guide/advanced-topics/using-alder-lake).
