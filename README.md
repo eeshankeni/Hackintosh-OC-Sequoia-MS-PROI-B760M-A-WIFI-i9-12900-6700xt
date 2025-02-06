@@ -22,3 +22,4 @@ And EFI to help you get Opencore 1.0.3 running. Tested on Sequoia 15.2。
 - ctrsmt bootarg added to recognise the E cores as additional threads.
 - Use [beta itlwm kext](https://github.com/Lorys89/itlwm/releases/tag/v2.4.0-alpha) and [this thread](https://github.com/OpenIntelWireless/itlwm/issues/983) to find the Heliport app.
 - If you get a blank screen post kernel right before installation, Disable NootRX and enable it once in userland post account creation.
+- Follow this [helpful guide](https://chriswayg.gitbook.io/opencore-visual-beginners-guide/advanced-topics/using-alder-lake).
