@@ -1,9 +1,5 @@
 # Hackintosh-Sequoia-MSI-B760M-12900-6700XT
 
-[中文说明](https://github.com/cxyzhangbin/Hackintosh-B760M-13600KF-6650XT/blob/master/README_zh.md)|[English Introduction](https://github.com/cxyzhangbin/Hackintosh-B760M-13600KF-6650XT/blob/master/README.md)
-
-## Introduction
-
 This Hackintosh EFI information for Opencore Bootloader 1.0.3. Tested on Sequoia 15.2。
 
 ## Hardware Specs
