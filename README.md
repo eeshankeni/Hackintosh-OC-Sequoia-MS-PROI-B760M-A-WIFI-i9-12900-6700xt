@@ -1,6 +1,6 @@
 # Hackintosh-Sequoia-MSI-B760M-12900-6700XT
 
-This Hackintosh EFI information for Opencore Bootloader 1.0.3. Tested on Sequoia 15.2。
+And EFI to help you get Opencore 1.0.3 running. Tested on Sequoia 15.2。
 
 ## Hardware Specs
 
