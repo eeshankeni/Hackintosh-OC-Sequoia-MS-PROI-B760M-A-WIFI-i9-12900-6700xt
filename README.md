@@ -13,12 +13,12 @@ And EFI to help you get Opencore 1.0.3 running. Tested on Sequoia 15.2。
 | Motherboard       | MSI PRO B760M-A WIFI                    |
 | RAM               | 16GB*4 DDR4 3600 Corsair                |
 | HDD               | WD 2TB NVME                             |
+| Audio             | Realtek ALC897 (alcid=13)               |
 | Wi-Fi & Bluetooth | Intel® Wi-Fi6E AX211                    |
 
 ## What does NOT work?
 - Bluetooth, Airdrop
 - iMessage, Facetime
-- Realtek ALC897 Audio Stopped working with Alcid=13 after updating from Sonoma to Sequoia. HDMI audio still works.
 
 ## Whats special?
 - USB ports mapped via usbtoolbox.
