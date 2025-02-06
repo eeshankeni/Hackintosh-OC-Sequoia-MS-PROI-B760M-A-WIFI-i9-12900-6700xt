@@ -9,7 +9,7 @@ And EFI to help you get Opencore 1.0.3 running. Tested on Sequoia 15.2。
 | Accessory         | Model                                   |
 | ----------------- | --------------------------------------- |
 | CPU               | Intel® Core™ i9-12900                   |
-| GPU               | ROG Strix AMD Radeon RX7000XT           |
+| GPU               | ROG Strix AMD Radeon RX6700XT           |
 | Motherboard       | MSI PRO B760M-A WIFI                    |
 | RAM               | 16GB*4 DDR4 3600 Corsair                |
 | HDD               | WD 2TB NVME                             |
