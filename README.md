@@ -1,4 +1,5 @@
 # Hackintosh-Sequoia-MSI-B760M-i9-12900-6700XT
+![Screenshot 2025-02-06 at 6 21 50 AM](https://github.com/user-attachments/assets/95f4d747-fdcd-4394-8f9e-f06eb0ff49e6)
 
 
 And EFI to help you get Opencore 1.0.3 running. Tested on Sequoia 15.2。
@@ -16,7 +17,7 @@ And EFI to help you get Opencore 1.0.3 running. Tested on Sequoia 15.2。
 
 ## What does NOT work?
 - Bluetooth, Airdrop
-- iMessage
+- iMessage, Facetime
 - Realtek ALC897 Audio Stopped working with Alcid=13 after updating from Sonoma to Sequoia.
 
 ## Whats special?
@@ -29,3 +30,4 @@ And EFI to help you get Opencore 1.0.3 running. Tested on Sequoia 15.2。
 - Use [beta itlwm kext](https://github.com/Lorys89/itlwm/releases/tag/v2.4.0-alpha) and [this thread](https://github.com/OpenIntelWireless/itlwm/issues/983) to find the Heliport app.
 - If you get a blank screen post kernel right before installation, Disable NootRX and enable it once in userland post account creation.
 - Follow this [helpful guide](https://chriswayg.gitbook.io/opencore-visual-beginners-guide/advanced-topics/using-alder-lake).
+- Enable Above 4G decoding, disable ftpm, disable secure boot.
