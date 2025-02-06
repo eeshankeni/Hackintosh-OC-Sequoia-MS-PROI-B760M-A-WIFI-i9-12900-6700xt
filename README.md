@@ -22,7 +22,7 @@ And EFI to help you get Opencore 1.0.3 running. Tested on Sequoia 15.2。
 
 ## Whats special?
 - USB ports mapped via usbtoolbox.
-- CPU topology rebuild should improve performance.
+- CPU topology rebuild and CPU Friend should provide decent alder lake thread management.
 - Debugging disabled by default. Enabled with -v bootarg
 
 ### Tips
