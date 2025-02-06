@@ -1,4 +1,4 @@
-# Hackintosh-Sequoia-MSI-B760M-12900-6700XT
+# Hackintosh-Sequoia-MSI-B760M-i9-12900-6700XT
 
 And EFI to help you get Opencore 1.0.3 running. Tested on Sequoia 15.2。
 
@@ -7,7 +7,7 @@ And EFI to help you get Opencore 1.0.3 running. Tested on Sequoia 15.2。
 | Accessory         | Model                                   |
 | ----------------- | --------------------------------------- |
 | CPU               | Intel® Core™ i9-12900                   |
-| GPU               | SOONFOALS AMD Radeon RX6650XT LIGHTNING |
+| GPU               | ROG strix AMD Radeon RX7000XT           |
 | Motherboard       | MSI PRO B760M-A WIFI                    |
 | RAM               | 16GB*4 DDR4 3600 Corsair                |
 | HDD               | WD 2TB NVME                             |
