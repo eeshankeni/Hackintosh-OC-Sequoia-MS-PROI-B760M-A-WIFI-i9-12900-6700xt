@@ -23,6 +23,7 @@ An EFI to help you get Opencore 1.0.3 running. Tested on Sequoia 15.2。
 - USB ports mapped via usbtoolbox.
 - CPU topology rebuild and CPU Friend should provide decent alder lake thread management.
 - Debugging disabled by default. Enabled with -v bootarg
+- bluetoothExternalDongleFailed bluetoothInternalControllerInfo Bluetooth [fix](https://www.youtube.com/watch?v=c1ZxTMtGQSk&ab_channel=litemint09)
 
 ### Tips
 - ctrsmt bootarg added to recognise the E cores as additional threads. Disable if it helps.
