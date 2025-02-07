@@ -1,5 +1,5 @@
 # Hackintosh-Sequoia-MSI-B760M-i9-12900-6700XT
-And EFI to help you get Opencore 1.0.3 running. Tested on Sequoia 15.2。
+An EFI to help you get Opencore 1.0.3 running. Tested on Sequoia 15.2。
 
 ![Screenshot 2025-02-06 at 7 38 11 AM](https://github.com/user-attachments/assets/b4a4e803-e9fd-4ac8-8e52-671089661d38)
 
