@@ -17,8 +17,7 @@ An EFI to help you get Opencore 1.0.3 running. Tested on Sequoia 15.2。
 | Wi-Fi & Bluetooth | Intel® Wi-Fi6E AX211                    |
 
 ## What does NOT work?
-- Bluetooth, Airdrop
-- iMessage, Facetime
+- Airdrop
 
 ## Whats special?
 - USB ports mapped via usbtoolbox.
@@ -32,3 +31,4 @@ An EFI to help you get Opencore 1.0.3 running. Tested on Sequoia 15.2。
 - If you get a blank screen post kernel right before installation, Disable NootRX and enable it once in userland post account creation.
 - Follow this [helpful guide](https://chriswayg.gitbook.io/opencore-visual-beginners-guide/advanced-topics/using-alder-lake).
 - Enable Above 4G decoding, disable ftpm, disable secure boot.
+- Shoutout to [this comment](https://www.reddit.com/r/hackintosh/comments/1fj6q9j/comment/lp6yg9s/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), this [video](https://www.youtube.com/watch?v=c1ZxTMtGQSk) and this [thread](https://github.com/OpenIntelWireless/itlwm/issues/1009) for fixing bluetooth and wifi.
